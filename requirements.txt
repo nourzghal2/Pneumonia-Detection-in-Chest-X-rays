@@ -1,0 +1,23 @@
+# Requirements
+
+## Core Dependencies
+tensorflow>=2.8.0
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scikit-learn>=1.0.0
+opencv-python>=4.5.0
+Pillow>=8.0.0
+tqdm>=4.62.0
+
+## Development Dependencies (Optional)
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+ipywidgets>=7.6.0
+
+## For GPU Support (Optional)
+tensorflow-gpu>=2.8.0
+
+## For Kaggle Environment
+kaggle>=1.5.0
